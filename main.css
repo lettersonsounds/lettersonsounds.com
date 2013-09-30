@@ -12,8 +12,17 @@ iframe {
 }
 
 #main {
-	width: 560px;
+	width: 900px;
 	margin: 0 auto;
+}
+
+#singles, #editions, #in-progress {
+    width: 300px;
+    float: left;
+}
+
+#main h2, #main p {
+    color: #fff;
 }
 
 #main h1 {
